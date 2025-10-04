@@ -1,0 +1,54 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Bamboo-Food",
+    "uuid": "8554d666-7a6a-336b-b609-8f76a0a4a61a",
+    "version": [
+      1,
+      0,
+      117
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "cd0c2768-71b0-36fe-a8b2-b0766633c385",
+      "version": [
+        1,
+        0,
+        3
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "10f136cf-00ee-3ba2-83aa-56dd93af4532",
+      "version": [
+        1,
+        0,
+        115
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Fokcio",
+      "Flower7C3"
+    ],
+    "generated_with": {
+      "bridge": [
+        "2.7.50"
+      ],
+      "dash": [
+        "0.11.7"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_brewing_mix": {
+    "description": {
+      "identifier": "bamboo:water_brewing"
+    },
+    "tags": [
+      "brewing_stand"
+    ],
+    "input": "bamboo:sticks",
+    "reagent": "minecraft:water_bucket",
+    "output": "bamboo:water_bottle"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "format_version": "1.21.60",
+  "minecraft:crafting_items_catalog": {
+    "categories": [
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "name": "minecraft:itemGroup.name.cookedFood"
+            },
+            "items": [
+              "bamboo:burger",
+              "bamboo:fries"
+            ]
+          },
+          {
+            "group_identifier": {
+              "name": "minecraft:itemGroup.name.miscFood"
+            },
+            "items": [
+              "bamboo:soup",
+              "bamboo:muffin",
+              "bamboo:ice_cream"
+            ]
+          },
+          {
+            "group_identifier": {
+              "name": "minecraft:itemGroup.name.rawFood"
+            },
+            "items": [
+              "bamboo:sticks"
+            ]
+          },
+          {
+            "group_identifier": {
+              "icon": "bamboo:water_bottle",
+              "name": "minecraft:itemGroup.name.miscFood"
+            },
+            "items": [
+              "bamboo:water_bottle",
+              "bamboo:coffee",
+              "bamboo:tea",
+              "bamboo:chocolate",
+              "bamboo:cola",
+              "bamboo:cola_zero",
+              "bamboo:sprite",
+              "bamboo:soda",
+              "bamboo:shake",
+              "bamboo:smoothie",
+              "bamboo:apple_juce",
+              "bamboo:orange_juce",
+              "bamboo:lemon_juce",
+              "bamboo:blueberry_juce",
+              "bamboo:grape_juce",
+              "bamboo:berry_juce",
+              "bamboo:strawberry_juce"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

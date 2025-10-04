@@ -1,0 +1,30 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "bamboo:burger_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "bamboo:sticks",
+        "count": 4
+      },
+      {
+        "item": "minecraft:bread",
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "bamboo:burger",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "bamboo:sticks"
+      }
+    ]
+  }
+}

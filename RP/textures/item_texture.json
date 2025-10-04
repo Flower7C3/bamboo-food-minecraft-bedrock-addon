@@ -1,0 +1,75 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "bamboo:sticks": {
+      "textures": "textures/items/32/bamboo-sticks"
+    },
+    "bamboo:burger": {
+      "textures": "textures/items/32/burger"
+    },
+    "bamboo:fries": {
+      "textures": "textures/items/32/fries"
+    },
+    "bamboo:soup": {
+      "textures": "textures/items/32/soup"
+    },
+    "bamboo:muffin": {
+      "textures": "textures/items/32/muffin"
+    },
+    "bamboo:ice_cream": {
+      "textures": "textures/items/32/ice_cream"
+    },
+    "bamboo:water_bottle": {
+      "textures": "textures/items/32/water_bottle"
+    },
+    "bamboo:cola": {
+      "textures": "textures/items/32/drink_sparkling_cola"
+    },
+    "bamboo:orange_juce": {
+      "textures": "textures/items/32/drink_juce_orange"
+    },
+    "bamboo:lemon_juce": {
+      "textures": "textures/items/32/drink_juce_lemon"
+    },
+    "bamboo:shake": {
+      "textures": "textures/items/32/drink_cold_shake"
+    },
+    "bamboo:coffee": {
+      "textures": "textures/items/32/drink_hot_coffee"
+    },
+    "bamboo:tea": {
+      "textures": "textures/items/32/drink_hot_tea"
+    },
+    "bamboo:cola_zero": {
+      "textures": "textures/items/32/drink_sparkling_cola_zero"
+    },
+    "bamboo:chocolate": {
+      "textures": "textures/items/32/drink_hot_chocolate"
+    },
+    "bamboo:smoothie": {
+      "textures": "textures/items/32/drink_cold_smoothie"
+    },
+    "bamboo:sprite": {
+      "textures": "textures/items/32/drink_sparkling_sprite"
+    },
+    "bamboo:soda": {
+      "textures": "textures/items/32/drink_sparkling_soda"
+    },
+    "bamboo:blueberry_juce": {
+      "textures": "textures/items/32/drink_juce_blueberry"
+    },
+    "bamboo:grape_juce": {
+      "textures": "textures/items/32/drink_juce_grape"
+    },
+    "bamboo:berry_juce": {
+      "textures": "textures/items/32/drink_juce_berry"
+    },
+    "bamboo:strawberry_juce": {
+      "textures": "textures/items/32/drink_juce_strawberry"
+    },
+    "bamboo:apple_juce": {
+      "textures": "textures/items/32/drink_juce_apple"
+    }
+  }
+}

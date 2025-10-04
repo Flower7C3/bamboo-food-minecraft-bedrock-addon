@@ -1,0 +1,30 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "bamboo:cola_zero_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "bamboo:water_bottle",
+        "count": 1
+      },
+      {
+        "item": "minecraft:black_dye",
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "bamboo:cola_zero",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "bamboo:water_bottle"
+      }
+    ]
+  }
+}

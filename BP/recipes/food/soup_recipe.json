@@ -1,0 +1,30 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "bamboo:soup_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:bowl",
+        "count": 1
+      },
+      {
+        "item": "bamboo:sticks",
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "bamboo:soup",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "bamboo:sticks"
+      }
+    ]
+  }
+}
