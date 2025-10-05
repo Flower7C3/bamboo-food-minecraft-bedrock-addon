@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.0",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "set_book_contents",
+              "title": "Bambu Menu",
+              "author": "Fokcio & Flower7C3",
+              "pages": [
+                "{\"rawtext\":[ {\"translate\":\"bamboo.menu.page.1\"}]}",
+                "{\"rawtext\":[ {\"translate\":\"bamboo.menu.page.2\"}]}",
+                "{\"rawtext\":[ {\"translate\":\"bamboo.menu.page.3\"}]}",
+                "{\"rawtext\":[ {\"translate\":\"bamboo.menu.page.4\"}]}"
+              ]
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

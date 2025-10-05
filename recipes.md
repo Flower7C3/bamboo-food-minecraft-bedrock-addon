@@ -2,11 +2,11 @@
 
 ## Basic Items
 
-- **9 bamboo** → **bamboo stick**
+- **2 bamboo** → **bamboo sticks**
 
 ## Drinks
 
-> Recipe: water bucket + glass bottle + bamboo stick → bamboo water_bottle
+> Recipe: bamboo sticks + water bucket (in brewing stand) → bamboo water_bottle
 > Then: bamboo water_bottle + dye → colored drink
 
 ### Texture Generation Commands
@@ -42,7 +42,7 @@ magick drink_hot.png -fuzz 20% -fill "#9D9D97" -opaque "#ff0000" -fuzz 20% -fill
 | Cyan | #169C9C | sprite | sprite | bamboo water_bottle + cyan dye + sugar | 2 |
 | Light blue | #3AB3DA | soda | soda | bamboo water_bottle + light blue dye | 2 |
 
-### Juce
+### Juice
 
 | Color | Hex | Item | Polish | Recipe | Nutrition |
 |-------|-----|------|--------|--------|-----------|
@@ -60,15 +60,69 @@ magick drink_hot.png -fuzz 20% -fill "#9D9D97" -opaque "#ff0000" -fuzz 20% -fill
 
 | Item | Polish | Recipe | Nutrition |
 |------|--------|--------|-----------|
-| bamboo_burger | BamBurger | bamboo stick + bread | 8 |
-| bamboo_fries | BamFryty | bamboo stick (in furnace/smoker/campfire) | 4 |
-| bamboo_soup | BamShroom | pot + bamboo stick + water bucket + mushroom + potato | 10 |
+| bamboo_burger | BamBurger | 4 bamboo sticks + bread | 8 |
+| bamboo_fries | BamFryty | bamboo sticks (in furnace/smoker/campfire) | 4 |
+| bamboo_soup | Bambupa (zupa) | bowl + bamboo stick | 10 |
 
 ### Desserts
 
 | Item | Polish | Recipe | Nutrition |
 |------|--------|--------|-----------|
-| muffin | BamMuffin | bamboo stick + wheat + sugar | 8 |
-| ice cream | BamIce | stick + bamboo stick + ice | 6 |
+| muffin | BamMuffin | wheat + sugar + bamboo stick | 8 |
+| ice cream | BambLody | bamboo stick + ice + stick | 6 |
+
+## Crafting Flow Diagram
+
+```
+2x Bamboo
+    ↓
+Bamboo Sticks
+    ↓
+┌─────────────────┬─────────────────┬─────────────────┐
+│   Water Branch  │   Food Branch   │ Dessert Branch  │
+│                 │                 │                 │
+│ Water Bucket    │ BamBurger       │ BamMuffin       │
+│ + Brewing Stand │ (+ Bread)       │ (+ Wheat+Sugar) │
+│        ↓        │                 │                 │
+│ Bamboo Water    │ BamFryty        │ BambLody          │
+│ Bottle          │ (Smelting)      │ (+ Ice+Stick)   │
+│        ↓        │                 │                 │
+│ ┌─────┬─────┬───┼─────┬───────────┼─────────────────┘
+│ │Hot  │Cold │Spr│Juce │           │
+│ │Drinks│Drinks│kl│     │           │
+│ │     │     │   │     │           │
+│ │Coffee│Smoothie│Cola│Orange│     │
+│ │Tea  │Shake │Sprite│Lemon │     │
+│ │Choco│     │Soda │Apple │     │
+│ │late │     │     │Blueb.│     │
+│ │     │     │     │Grape │     │
+│ │     │     │     │Berry │     │
+│ │     │     │     │Straw.│     │
+└─────┴─────┴───┴─────┴───────────┴─────────────────┘
+```
+
+## State Transition Summary
+
+### Phase 1: Material Preparation
+- **2x Bamboo** → **Bamboo Sticks**
+
+### Phase 2: Branching
+1. **Water Branch**: Bamboo Sticks + Water Bucket (Brewing Stand) → Bamboo Water Bottle
+   - **Hot Drinks**: Coffee, Tea, Chocolate
+   - **Cold Drinks**: Smoothie, Shake
+   - **Sparkling Drinks**: Cola Zero, Cola, Sprite, Soda
+   - **Juices**: Orange, Lemon, Apple, Blueberry, Grape, Berry, Strawberry
+
+2. **Food Branch**: Direct crafting from Bamboo Sticks
+   - **BamBurger**: + Bread
+   - **BamFryty**: Smelting process
+   - **Bambupa (zupa)**: + Bowl
+
+3. **Dessert Branch**: Direct crafting from Bamboo Sticks
+   - **BamMuffin**: + Wheat + Sugar
+   - **BambLody**: + Ice + Stick
+
+### Phase 3: Consumption
+All final products are consumed by the player.
 
 > Ikonki: https://www.svgrepo.com/collection/pixeled-food/
