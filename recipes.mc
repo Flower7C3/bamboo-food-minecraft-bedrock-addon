@@ -24,24 +24,24 @@ dodaj patyki bambusowe do chleba
 §7§lBambupa (zupa)§r
 daj patyki bambusowe do miski
 
-§7§lBambFryty§r
+§7§lBambuFryty§r
 upiecz patyki bambusowe w piecu/wędzarni/ognisku
 
 ------------------------------------------------------------------------
 
 §l§1Słodkości§r
 
-§7§lBambMuffin§r
+§7§lBambufiin (muffin)§r
 pszenica + cukier + patyk bambusowy
 
-§7§lBambLody§r
+§7§lBambody (lody)§r
 patyk + lód + patyk bambusowy
 
 ------------------------------------------------------------------------
 
  §l§1Wytwarzanie napoi§r
 §lKrafting  Alchemik
-§r    ⬇         ⬇
+§r    ↓         ↓
   patyki    patyki
 bambusowe bambusowe
     +         +
@@ -50,7 +50,7 @@ bambusowe bambusowe
   But. wody bambusowej
          +
    barwnik (+cukier)
-         ⬇
+         ↓
        napój
 
 ------------------------------------------------------------------------
@@ -58,34 +58,34 @@ bambusowe bambusowe
 §l§1Napoje gorące§r
 
 §lBambresso (kawa)§r jasnoszary
-§lBamBata (herbata)§r szary
-§lBambCzoko§r brązowy
+§lBambata (herbata)§r szary
+§lBamboko (czekolada)§r brązowy
 
 §l§1Napoje zimne§r
 
-§lBambSmoothie§r żółty
+§lBamoothie (smoothie)§r żółty
 §lBamShake§r biały
 
 ------------------------------------------------------------------------
 
 §l§1Gazowane§r
 
-§lZeroBambCola§r czarny
+§lBambolaZero (cola)§r czarny
 §lBambSoda§r jasnoniebieski
 
 §l§1Gazowane słodkie§r
 
-§lBambCola§r czerwony + cukier
-§lBambGazowaneLimo§r cyjan + cukier
+§lBambola (cola)§r czerwony + cukier
+§lBambowaneLimo§r cyjan + cukier
 
 ------------------------------------------------------------------------
 
 §l§1Soki§r
 
 §lBambugoda (jagoda)§r niebieski
-§lBambCytryna§r limonkowy
-§lBambJabłko§r zielony
-§lBambArańcza§r pomarańczowy
-§lBambugoda (jagoda)§r magenta
-§lBambTruskawka§r różowy
-§lBambGrono (winogrono)§r fioletowy
+§lBambrytryna (cytryna)§r limonkowy
+§lBambapko (jabłko)§r zielony
+§lBambarańcza (pomarańcza)§r pomarańczowy
+§lBambrówka (borówka)§r magenta
+§lBambrawka (truskawka)§r różowy
+§lBambrono (winogrono)§r fioletowy

@@ -69,7 +69,7 @@ magick drink_hot.png -fuzz 20% -fill "#9D9D97" -opaque "#ff0000" -fuzz 20% -fill
 | Item | Polish | Recipe | Nutrition |
 |------|--------|--------|-----------|
 | muffin | BamMuffin | wheat + sugar + bamboo stick | 8 |
-| ice cream | BambLody | bamboo stick + ice + stick | 6 |
+| ice cream | Bambody (lody) | bamboo stick + ice + stick | 6 |
 
 ## Crafting Flow Diagram
 
@@ -84,7 +84,7 @@ Bamboo Sticks
 │ Water Bucket    │ BamBurger       │ BamMuffin       │
 │ + Brewing Stand │ (+ Bread)       │ (+ Wheat+Sugar) │
 │        ↓        │                 │                 │
-│ Bamboo Water    │ BamFryty        │ BambLody          │
+│ Bamboo Water    │ BamFryty        │ Bambody (lody)          │
 │ Bottle          │ (Smelting)      │ (+ Ice+Stick)   │
 │        ↓        │                 │                 │
 │ ┌─────┬─────┬───┼─────┬───────────┼─────────────────┘
@@ -120,7 +120,7 @@ Bamboo Sticks
 
 3. **Dessert Branch**: Direct crafting from Bamboo Sticks
    - **BamMuffin**: + Wheat + Sugar
-   - **BambLody**: + Ice + Stick
+   - **Bambody (lody)**: + Ice + Stick
 
 ### Phase 3: Consumption
 All final products are consumed by the player.

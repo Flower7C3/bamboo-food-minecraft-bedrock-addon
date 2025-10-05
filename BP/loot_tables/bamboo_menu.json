@@ -10,7 +10,7 @@
           "functions": [
             {
               "function": "set_book_contents",
-              "title": "Bambu Menu",
+              "title": "BAMBENU",
               "author": "Fokcio & Flower7C3",
               "pages": [
                 "{\"rawtext\":[ {\"translate\":\"bamboo.menu.page.1\"}]}",
