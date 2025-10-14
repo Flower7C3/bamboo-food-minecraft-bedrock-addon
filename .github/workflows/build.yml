@@ -8,7 +8,7 @@ on:
 jobs:
   build:
 
-    uses: flower7c3/minecraft-addon-github-workflows/github-github-workflows/build-and-release.yml@main
+    uses: flower7c3/minecraft-addon-.github/workflows/github-.github/workflows/build-and-release.yml@main
     with:
       project_name: "Bamboo Food"
       has_test_workflow: false
