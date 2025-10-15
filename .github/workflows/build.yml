@@ -13,7 +13,7 @@ jobs:
   build:
     uses: Flower7C3/minecraft-addon-workflows/.github/workflows/build-and-release.yml@main
     with:
-      project_name: "Bamboo Food"
+      project_name: "Bamboo food"
       has_test_workflow: false
       total_blocks: false
     secrets: inherit

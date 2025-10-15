@@ -1,4 +1,4 @@
-# Bamboo Food
+# Bamboo food
 
 A Minecraft Bedrock Edition addon that adds various food and drink items with bamboo-based crafting.
 

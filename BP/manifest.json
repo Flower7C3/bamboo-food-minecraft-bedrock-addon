@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "description": "",
-    "name": "Bamboo-Food",
+    "description": "Delicious bamboo-based food items and recipes for Minecraft.",
+    "name": "Bamboo food",
     "uuid": "8554d666-7a6a-336b-b609-8f76a0a4a61a",
     "version": [
       1,
@@ -17,14 +17,14 @@
   },
   "modules": [
     {
-      "description": "",
+      "description": "Behavior",
       "type": "data",
-      "uuid": "cd0c2768-71b0-36fe-a8b2-b0766633c385",
       "version": [
         1,
         0,
-        3
-      ]
+        201
+      ],
+      "uuid": "7bea8e5c-f40d-45c2-97b1-d28ef064d63a"
     }
   ],
   "dependencies": [
@@ -42,6 +42,8 @@
       "Fokcio",
       "Flower7C3"
     ],
+    "url": "https://github.com/Flower7C3/bamboo-food-minecraft-bedrock-addon",
+    "license": "MIT",
     "generated_with": {
       "bridge": [
         "2.7.51"
