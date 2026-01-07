@@ -10,7 +10,6 @@
     },
     "components": {
       "minecraft:allow_off_hand": true,
-      "minecraft:allow_off_hand": true,
       "minecraft:max_stack_size": 64,
       "minecraft:icon": "bamboo:water_bottle",
       "minecraft:display_name": {
