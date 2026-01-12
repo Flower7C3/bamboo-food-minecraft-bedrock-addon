@@ -3,6 +3,10 @@ A Minecraft Bedrock Edition addon that adds various food and drink items with ba
 ## Files
 - BP files: {{ bp_files }}
 - RP files: {{ rp_files }}
+- Total blocks: {{ total_blocks }}
+- Total items: {{ total_items }}
+- Total models: {{ total_models }}
+- Configured locales: {{ locales_list }}
 
 ## Installation
 1. Download the `.mcaddon` file from the assets below
