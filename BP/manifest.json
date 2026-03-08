@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Delicious bamboo-based food items and recipes for Minecraft.",
-    "name": "Bamboo food",
+    "name": "pack.name",
+    "description": "pack.description",
     "uuid": "8554d666-7a6a-336b-b609-8f76a0a4a61a",
     "version": [
       1,

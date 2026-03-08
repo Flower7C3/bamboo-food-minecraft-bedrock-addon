@@ -1,3 +1,6 @@
+pack.name=Bambusowe jedzenie
+pack.description=Pyszne potrawy i przepisy na bazie bambusa do Minecraft.
+
 Food=Jedzenie
 itemGroup.drinks.name=Napoje
 item.bamboo:burger.name=BamBurger

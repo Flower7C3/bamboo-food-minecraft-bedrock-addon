@@ -1,3 +1,6 @@
+pack.name=Bamboo food
+pack.description=Delicious bamboo-based food items and recipes for Minecraft.
+
 Food=Food
 itemGroup.drinks.name=Drinks
 item.bamboo:sticks.name=Bamboo-Bamboo
