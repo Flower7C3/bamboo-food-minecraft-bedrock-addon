@@ -31,7 +31,7 @@ upiecz patyki bambusowe w piecu/wędzarni/ognisku
 
 §l§1Słodkości§r
 
-§7§lBambufiin (muffin)§r
+§7§lBambuffin (muffin)§r
 pszenica + cukier + patyk bambusowy
 
 §7§lBambody (lody)§r

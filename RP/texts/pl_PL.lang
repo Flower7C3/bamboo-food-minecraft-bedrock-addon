@@ -8,7 +8,7 @@ item.bamboo:fries.name=BambuFryty
 item.bamboo:sticks.name=Bambu-Bambu
 item.bamboo:water_bottle.name=BambuWoda
 item.bamboo:soup.name=Bambupa (zupa)
-item.bamboo:muffin.name=Bambufiin (muffin)
+item.bamboo:muffin.name=Bambuffin (muffin)
 item.bamboo:ice_cream.name=Bambody (lody)
 item.bamboo:cola.name=Bambola (cola)
 item.bamboo:cola_zero.name=BambolaZero (cola)
@@ -28,14 +28,14 @@ item.bamboo:strawberry_juce.name=Bambrawka (truskawka)
 item.bamboo:apple_juce.name=Bambapko (jabłko)
 
 bamboo.menu.page.1=§l|"'\ /'\ |⋁| |"'\ |"" |\| |  |\n|""| |""| | | |""| |"" | | |  |\n|_/ |  | | | |_/ |_. | | \./\n\n§l§1Przystawki§r\n\nBambu-Bambu (patyki bambusa)\n\n§l§1Dania główne§r\n\nBamBurger\nBambuFryty\nBambupa (zupa)
-bamboo.menu.page.2=§l§1Słodkości§r\n\nBambufiin (muffin)\nBambody (lody)\n\nBamoothie (smoothie)\nBamShake\n\n\n§l§6         | | | |§f     //\n        §6[| | | |]  §0| §f//§c@§0|\n§c/~~~|~\ §6[F.Y.Y.]  §0|§cC O §0|\n§c{B.R.G.R} §6[..R.T..]  §0|§c@L A§0|\n§c\_|___/ §6.\___/  §0.|___.|
+bamboo.menu.page.2=§l§1Słodkości§r\n\nBambuffin (muffin)\nBambody (lody)\n\nBamoothie (smoothie)\nBamShake\n\n\n§l§6         | | | |§f     //\n        §6[| | | |]  §0| §f//§c@§0|\n§c/~~~|~\ §6[F.Y.Y.]  §0|§cC O §0|\n§c{B.R.G.R} §6[..R.T..]  §0|§c@L A§0|\n§c\_|___/ §6.\___/  §0.|___.|
 bamboo.menu.page.3=§l§1Napoje gorące§r\n\nBambresso     ⎰⎰\nBambata    §lC|"""""|\n§rBamboko     §l\___/\n\n§l§1Gazowane\n§r\nBambola (cola) §l/""\ \n§rBambolaZero   §l|§3@§r  .§l|\n§rBambowaneLimo §l| §3@§r§l |§r\nBambSoda      §l\__/
 bamboo.menu.page.4=§l§1Soki§r\n\nBambugoda (jagoda)\nBambrytryna (cytryna)\nBambapko (jabłko)\nBambarańcza (pomarańcza)\nBambrówka (borówka)    \nBambrawka (truskawka)\nBambrono (winogrono)\n              §l|...|\n§l§1Inne§r         §l/  \ \n            |   |\n§rBambuwoda    §l\__/
 
 bamboo.crafting_book.page.1=§l§1Jedzenie bambusowe§r\n\nPoznaj nowe smaki dostępne od ręki. \nZbierz bambusa, dodaj chleb, pszenicę, barwniki czy cukier do miski lub butelki i delektuj się wybornymi daniami.
 bamboo.crafting_book.page.2=§l§1Diagram przepływu§r\n\n        §l2x bambus§r\n            ↓\n    §lBambu-Bambu§r\n        ↙       ↘\n §lposiłki§r    ↓   §ldesery§r\n          §lnapoje§r
 bamboo.crafting_book.page.3=§l§1Posiłki§r\n\n§7§lBamBurger§r\ndodaj patyki bambusowe do chleba\n\n§7§lBambupa (zupa)§r\ndaj patyki bambusowe do miski\n\n§7§lBambuFryty§r\nupiecz patyki bambusowe w piecu/wędzarni/ognisku
-bamboo.crafting_book.page.4=§l§1Słodkości§r\n\n§7§lBambufiin (muffin)§r\npszenica + cukier + patyk bambusowy\n\n§7§lBambody (lody)§r\npatyk + lód + patyk bambusowy
+bamboo.crafting_book.page.4=§l§1Słodkości§r\n\n§7§lBambuffin (muffin)§r\npszenica + cukier + patyk bambusowy\n\n§7§lBambody (lody)§r\npatyk + lód + patyk bambusowy
 bamboo.crafting_book.page.5= §l§1Wytwarzanie napoi§r\n§lKrafting  Alchemik\n§r    ↓         ↓\n  patyki    patyki\nbambusowe bambusowe\n    +         +\n butelka  wiadro wody\n     ↘       ↙\n  But. wody bambusowej\n         +\n   barwnik (+cukier)\n         ↓\n       napój
 bamboo.crafting_book.page.6=§l§1Napoje gorące§r\n\n§lBambresso§r kawa/jasnoszary\n§lBambata§r herbata/szary\n§lBamboko§r czekolada/brązowy\n\n§l§1Napoje zimne§r\n\n§lBamoothie§r smoothie/żółty\n§lBamShake§r biały
 bamboo.crafting_book.page.7=§l§1Gazowane§r\n\n§lBambolaZero§r cola/czarny\n§lBambSoda§r jasnoniebieski\n\n§l§1Gazowane słodkie§r\n\n§lBambola§r cola/czerwony + cukier\n§lBambowaneLimo§r cyjan + cukier
